@@ -7,6 +7,7 @@ An API that has all the CRUD protocols that you need predefined!
 ```sh 
 $ npm i -g nodemon
 ```
+* MongoDB, running on `mongodb://127.0.0.1:27017/`
 
 ## Installation 
 ```sh 
