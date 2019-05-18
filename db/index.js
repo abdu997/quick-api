@@ -1,5 +1,5 @@
 url = "mongodb://127.0.0.1:27017/"
-dbname = "FormBuilder"
+dbname = "quickApi"
 const { MongoClient } = require('mongodb');
 
 exports.insertOne = async (collection, data) => {
