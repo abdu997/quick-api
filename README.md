@@ -32,39 +32,39 @@ Make a `POST` request to `http://localhost:4000` with a similar schema below, to
 {
     "name": "Sign up",
     "slug": "sign-up",
-	"meta": {},
-	"structure": [
-		{
-        	"key": "first_name",
-        	"label": "First name",
+    "meta": {},
+    "structure": [
+        {
+            "key": "first_name",
+            "label": "First name",
             "type": "text"
-		},
-		{
+        },
+        {
             "key": "last_name",
             "type": "text",
             "label": "last name"
-		},
-		{
-			"key": "check",
-			"type":"checkbox",
-			"label": "Checkbox test"
-		},
-		{
-			"key": "list",
-			"type":"dropdown",
-			"label": "This is a dropdown",
-			"options": [
-				{
-					"label": "hello",
-					"value": "no"
-				}
-			]
-		},
+        },
         {
-			"key": "submit",
-			"type": "submit",
-			"placeholder": "Submit",
-			"className": "waves-effect waves-light btn"
+            "key": "check",
+            "type":"checkbox",
+            "label": "Checkbox test"
+        },
+        {
+            "key": "list",
+            "type":"dropdown",
+            "label": "This is a dropdown",
+            "options": [
+                {
+                    "label": "hello",
+                    "value": "no"
+                }
+            ]
+        },
+        {
+            "key": "submit",
+            "type": "submit",
+            "placeholder": "Submit",
+            "className": "waves-effect waves-light btn"
         }
     ]
 }
