@@ -1,7 +1,7 @@
 {
-  "name": "formbuilder-node",
+  "name": "quick-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API that has all the CRUD protocols that you need predefined! Powered by MongoDB, NodeJS and coffee.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
