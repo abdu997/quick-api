@@ -7,7 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "Abdul Amoud",
+  "homepage": "https://github.com/abdu997/quick-api#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/abdu997/quick-api.git"
+  }
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
