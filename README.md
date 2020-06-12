@@ -1,5 +1,5 @@
 # quick-api
-An API that has all the CRUD protocols that you need predefined!
+An API that has all the CRUD protocols that you need predefined! You can create collections and operate CRUD protocols on these collections using the power of API calls.
 
 ## Requirments
 * Node
